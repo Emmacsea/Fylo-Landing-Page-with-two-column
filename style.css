@@ -15,6 +15,10 @@
     
 }
 
+::-webkit-scrollbar{
+    visibility: hidden;
+}
+
 .design header {
     position: static;
     top: 0;
